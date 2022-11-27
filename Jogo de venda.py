@@ -1,5 +1,4 @@
 import os 
-import androidhelper
 import time
 print("===============================")
 print("se o jogo falhar na primeira vez\nporfavor entre de novo que ele vai funcionar")
